@@ -1,0 +1,10 @@
+{
+  "name": "17052018API7TechHTTP",
+  "version": "0.0.1",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "influx": "^5.0.0-alpha.4",
+    "swagger-ui-express": "^3.0.9"
+  }
+}
